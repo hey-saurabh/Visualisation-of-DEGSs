@@ -324,8 +324,7 @@ def visualise_pathways(pathways_for_genes_file_path):
 def main():
     #Step1
     #Load Data from Excel file
-    # file_path = input("Enter the path to the gene expression data file: ")
-    file_path="./datasets/7.xlsx"
+    file_path = input("Enter the path to the gene expression data file: ")
     dataf = load_data(file_path)
 
     #Step2
