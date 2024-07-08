@@ -53,7 +53,7 @@ Plots the principal components of the gene expression data to visualize sample c
 
 Visualizes the relationship between log2 fold change and mean expression values, highlighting significant DEGs.
 
-###Sample Histograms
+### Sample Histograms
 
 Displays histograms of expression values for each sample.
 
